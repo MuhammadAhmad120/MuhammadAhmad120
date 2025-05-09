@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @MuhammadAhmad120
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m **Muhammad Ahmad**  
+Mobile App Developer | Android & iOS Specialist | Flutter Enthusiast
 
-<!---
-MuhammadAhmad120/MuhammadAhmad120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Areas of Interest
+
+- Cross-platform mobile development with Flutter  
+- Native Android development (Java/Kotlin)  
+- Native iOS development (Swift)  
+- Backend integration using Firebase and REST APIs  
+- UI/UX design and mobile performance optimization  
+
+---
+
+### Currently Exploring
+
+- Flutter Web & Desktop applications  
+- Advanced animations and state management  
+- CI/CD automation for mobile development  
+- Integrating AI and ML features into mobile apps  
+
+---
+
+### Looking to Collaborate On
+
+- Innovative, mobile-first app ideas  
+- Open-source Flutter or Android projects  
+- End-to-end mobile product development  
+
+---
+
+### Contact
+
+**Email:** techfreakyx@gmail.com  
